@@ -10,5 +10,5 @@ cp -r /var/www/modpack/Setup/DW20/dist/manifest.json /var/www/modpack/DW20.json
 rm -r /var/www/modpack/Setup/DW20/dist/
 
 
-cp CompletedTemplate.json ../../public/DW20.json 
+cp CompletedTemplate.json ../../private/direwolf20.json 
 rm CompletedTemplate.json
