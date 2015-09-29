@@ -106,7 +106,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://feedthebeast.atlassian.net/wiki/display/PML/Public+Modpack+Listings"
+				"link" : "http://www.feed-the-beast.com/modpacks/direwolf20_17/changelog"
             }
         },
         "options":
@@ -226,7 +226,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Direwolf20 1.6.1",
+			"text" : "Direwolf20 1.7.0",
             "posX" : 5,
             "posY" : -45,
             "color" : -1,
